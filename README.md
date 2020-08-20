@@ -22,7 +22,7 @@ CREATE TABLE studies (
   briefTitle VARCHAR(2000)
 );
 
-#H Βάση Δεδομένων AppathonMed – Εισαγωγή δεδομένων  
+# H Βάση Δεδομένων AppathonMed – Εισαγωγή δεδομένων  
 
 Η εισαγωγή των δεδομένων στην βάση γίνεται με την εκτέλεση του .java αρχείου ReadXML 
   
@@ -34,7 +34,7 @@ CREATE TABLE studies (
 2.	Εισάγετε στο AppathonProject το ReadXML.java  
 - Διαφορετικά θα πρέπει να συμπληρώσετε τα μονοπάτια που θα ορίσετε εσείς στα αντίστοιχα σημεία του κώδικα (στις γραμμές 34, 39 και 46)
 
-#Εφαρμογή & Testing
+# Εφαρμογή & Testing
 
 - Για την εφαρμογή χρησιμοποιείστε το .jsp αρχείο.
  
@@ -47,7 +47,7 @@ CREATE TABLE studies (
 Μετά την υποβολή πατώντας πάνω στα tabs TABLE 1, TABLE 2 μπορείτε να δείτε τα αποτελέσματα της αναζήτησης.
 Τέλος πατώντας πάνω στο Read full study μπορείτε να δείτε την πλήρη μελέτη στο ClinicalTrials.gov για κάθε μελέτη των πινάκων . 
 
-#Εργαλεία Εφαρμογής & Credits
+# Εργαλεία Εφαρμογής & Credits
 
 Τα εργαλεία της εφαρμογής είναι συνεπή με αυτά του εργαστηρίου. Ειδικότερα, 
 •	Για την βάση δεδομένων όπως αναφέρθηκε χρησιμοποιήθηκε MariaDB
@@ -60,7 +60,7 @@ CREATE TABLE studies (
 •	https://www.javatpoint.com/how-to-read-xml-file-in-java
 •	https://www.codota.com/code/java/classes/org.xml.sax.InputSource
 
-#Παραδείγματα Φαρμάκων 
+# Παραδείγματα Φαρμάκων 
 
 •	Paclitaxel 
 •	Fluorouracil
